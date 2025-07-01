@@ -2,7 +2,7 @@
 A curated list of the best fonts.
 ## Families
 - [Cascadia Code](src/Cascadia Code)
-- [Google Sans](src/Google\ Sans)
+- [Google Sans](src/Google%20Sans)
 - [Inter](src/Inter)
 - [OpenAI Sans](src/OpenAI Sans)
 - [Segoe UI](src/Segoe UI)
