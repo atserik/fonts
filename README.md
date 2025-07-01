@@ -1,13 +1,13 @@
 # Fonts
 A curated list of the best fonts.
 ## Families
-- [Cascadia Code](src/Cascadia Code)
+- [Cascadia Code](src/Cascadia%20Code)
 - [Google Sans](src/Google%20Sans)
 - [Inter](src/Inter)
-- [OpenAI Sans](src/OpenAI Sans)
-- [Segoe UI](src/Segoe UI)
-- [TT Commons Pro](src/TT Commons Pro Trial)
-- [Söhne](src/Test Söhne)
+- [OpenAI Sans](src/OpenAI%20Sans)
+- [Segoe UI](src/Segoe%20UI)
+- [TT Commons Pro](src/TT%20Commons%20Pro%20Trial)
+- [Söhne](src/Test%20Söhne)
 ## Credits
 - [Microsoft - Cascadia Code](https://github.com/microsoft/cascadia-code)
 - [Google - Google Sans](https://design.google)
